@@ -13,7 +13,7 @@ $(function() {
      * feeds definitions, the allFeeds variable in our application.
      */
 
-     //RSS Feeds test suite
+     //RSS Feeds test suite 
     describe('RSS Feeds', function() {
         /* This test determines that the allFeeds variable
          * has been defined and that it is not empty.
