@@ -14,10 +14,16 @@ Live version can be found <a href="https://danielonea.github.io/Feed-Reader_proj
 
 ##  Tests
 
-* Tests for allfeeds has been defined and that it is not empty
+* Tests for allFeeds has been defined and that it is not empty
 * Tests for allFeeds have a url and that the url is not empty
 * Tests for allFeeds have a name and that the name is not empty
 * Searches for the class of 'menu-hidden' in the body tag and checks that the menu is hidden
 * Toggles on click event if the menu appears or disappears
 * Tests if the loadFeed function has at least a one '.entry' within the '.feed' container
 * Tests to see if two entries are not equal
+
+##  Technologies used 
+
+# Jasmine
+# jQuery
+# HTML5/CSS3
