@@ -20,9 +20,3 @@ It may take some time to completely load as additional network requests are made
 * Toggles on click event if the menu appears or disappears
 * Tests if the loadFeed function has at least a one '.entry' within the '.feed' container
 * Tests to see if two entries are not equal
-
-##  Technologies used 
-
-# Jasmine
-# jQuery
-# HTML5/CSS3
