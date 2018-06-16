@@ -9,7 +9,6 @@ It is a web-application that reads RSS feeds and that uses [Jasmine](http://jasm
 
 Download the repo (https://github.com/DanielOnea/Feed-Reader_project) and  open the index.html file.
 It may take some time to completely load as additional network requests are made. Once loaded, test results should apear at the bottom of the page.
-Live version can be found <a href="https://danielonea.github.io/Feed-Reader_project/">here.</a>
 
 
 ##  Tests
